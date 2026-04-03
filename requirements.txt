@@ -1,0 +1,22 @@
+# --- Core Deep Learning (PyTorch) ---
+# Used for custom CNN architecture and GPU tensor processing
+torch
+torchvision
+
+# --- Mathematical & Image Processing ---
+# Used for Classical Machine Learning feature extraction
+numpy
+scipy
+scikit-image
+PyWavelets
+
+# --- Data Science & Traditional Models ---
+# Used for K-Fold generation, Random Forests, KNN, and validation metrics
+scikit-learn
+
+# --- Visualizations ---
+# Used to chart learning curves and display confusion matrices
+matplotlib
+seaborn
+
+# Note: os, time, and glob are built directly into Python and do not need to be installed.
