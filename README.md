@@ -28,7 +28,7 @@ Brain-Tumor-Detection/
 │
 ├── requirements.txt        # Conda/Pip environment dependencies
 └── README.md
-
+```
 
 ---
 
@@ -76,3 +76,4 @@ conda activate DL_env
 
 # 3. Install Dependencies
 pip install -r requirements.txt
+```
